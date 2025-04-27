@@ -92,5 +92,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](#) file fo
 
 ---
 
-> **Learn Python the fun way. Play. Code. Level Up. — PyGram** 🐍💻🎉
+> **Learn Python the fun way. Play. Code. Level Up Your Skills. — PyGram** 🐍💻🎉
 
