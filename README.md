@@ -26,9 +26,8 @@ Players solve puzzles, complete coding quests, and debug snippets to unlock new 
 
 1. **Download and Install** the game (see installation instructions below).
 2. Launch the game and choose your **profile**.
-3. Select a **lesson level** and follow the on-screen prompts.
-4. Write or choose the correct code to solve challenges.
-5. Collect rewards and unlock the next stage as you master each topic!
+3. Write or choose the correct code to solve challenges.
+4. Collect rewards and unlock the next stage as you master each topic!
 
 ---
 
@@ -37,7 +36,6 @@ Players solve puzzles, complete coding quests, and debug snippets to unlock new 
 - 🎓 **Curriculum-Based**: Designed around the basics of Python programming.
 - 🧩 **Interactive Puzzles**: Apply what you learn through fun coding challenges.
 - 🗺️ **Progressive Difficulty**: Starts easy and gradually introduces complex topics.
-- 🌟 **Achievement System**: Earn stars, badges, and track your progress.
 - 🧠 **Built-in Tips**: Hints and guides to help you when you’re stuck.
 
 ---
