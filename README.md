@@ -39,7 +39,7 @@ Players complete coding quests, and debug snippets to unlock new stages and adva
 ## 🛠️ Built With
 
 - **Engine**: [Godot Engine](https://godotengine.org/)
-- **Language**: GDScript (for game logic), Python (for syntax reference and simulation), C# for code helper utilities/lightweight tasks.
+- **Language**: GDScript (for game logic), Python (for syntax reference and simulation), C# (for code helper utilities/lightweight tasks).
 - **Target Platform**: Desktop (Windows), with potential plans for Web and Mobile.
 
 ---
