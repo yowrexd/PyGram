@@ -2,8 +2,6 @@
 
 Welcome to **PyGram**, an **educational game built with Godot** that teaches the **foundations of Python programming** through fun and interactive challenges!
 
-Whether you're an absolute beginner or brushing up on your coding skills, PyGram turns learning into a game—literally!
-
 ---
 
 ## 📚 What is PyGram?
@@ -14,20 +12,19 @@ Whether you're an absolute beginner or brushing up on your coding skills, PyGram
 - Conditional Statements  
 - Loops (for, while)  
 - Functions  
-- Lists and Dictionaries  
-- Basic Debugging  
+- Lists and Dictionaries   
 - Input/Output Operations
 
-Players solve puzzles, complete coding quests, and debug snippets to unlock new stages and advance their Python knowledge.
+Players complete coding quests, and debug snippets to unlock new stages and advance their Python knowledge.
 
 ---
 
 ## 🕹️ How to Play
 
 1. **Download and Install** the game (see installation instructions below).
-2. Launch the game and choose your **profile**.
+2. Launch the game and enter your **profile**.
 3. Write or choose the correct code to solve challenges.
-4. Collect rewards and unlock the next stage as you master each topic!
+4. Unlock the next stage as you master each topic!
 
 ---
 
@@ -36,7 +33,6 @@ Players solve puzzles, complete coding quests, and debug snippets to unlock new 
 - 🎓 **Curriculum-Based**: Designed around the basics of Python programming.
 - 🧩 **Interactive Puzzles**: Apply what you learn through fun coding challenges.
 - 🗺️ **Progressive Difficulty**: Starts easy and gradually introduces complex topics.
-- 🧠 **Built-in Tips**: Hints and guides to help you when you’re stuck.
 
 ---
 
@@ -44,7 +40,7 @@ Players solve puzzles, complete coding quests, and debug snippets to unlock new 
 
 - **Engine**: [Godot Engine](https://godotengine.org/)
 - **Language**: GDScript (for game logic), Python (for syntax reference and simulation)
-- **Target Platform**: Desktop (Windows), with potential plans for Web and Mobile
+- **Target Platform**: Desktop (Windows), with potential plans for Web and Mobile.
 
 ---
 
@@ -52,16 +48,16 @@ Players solve puzzles, complete coding quests, and debug snippets to unlock new 
 
 1. **Download** the latest release from the [Releases](#) section.
 2. Extract the ZIP file to your desired location.
-3. Run the `PyGram.exe` (or the equivalent for your OS).
+3. Run the `PyGram.exe`.
 4. Start learning and having fun!
 
 ---
 
 ## 📈 Who is this for?
 
-- 🧒 **Beginners** looking to learn Python from scratch  
-- 🧑‍🏫 **Educators** wanting a tool to introduce programming in classrooms  
-- 🧠 **Self-learners** who prefer visual and interactive methods  
+- 🧒 **Beginners** looking to learn Python from scratch.
+- 🧑‍🏫 **Educators** wanting a tool to introduce programming in classrooms. 
+- 🧠 **Self-learners** who prefer visual and interactive methods.
 
 ---
 
@@ -71,10 +67,8 @@ We welcome feedback, ideas, and contributions! If you'd like to help improve PyG
 
 - Report issues  
 - Suggest features  
-- Submit pull requests  
-
-Check out the [CONTRIBUTING.md](#) for guidelines.
-
+- Submit pull requests
+  
 ---
 
 ## 📩 Contact
@@ -92,5 +86,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](#) file fo
 
 ---
 
-> **Learn Python the fun way. Play. Code. Level Up Your Skills. — PyGram** 🐍💻🎉
+**Learn Python the fun way. Play. Code. Level Up Your Skills. — PyGram** 🐍💻🎉
 
