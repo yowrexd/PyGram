@@ -14,6 +14,7 @@ Welcome to **PyGram**, an **educational game built with Godot** that teaches the
 - Functions  
 - Lists and Dictionaries   
 - Input/Output Operations
+- and many more...
 
 Players complete coding quests, and debug snippets to unlock new stages and advance their Python knowledge.
 
