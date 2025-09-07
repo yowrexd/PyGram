@@ -77,6 +77,7 @@ We welcome feedback, ideas, and contributions! If you'd like to help improve PyG
 For questions, bug reports, or collaborations, feel free to reach out:
 
 **Email**: yuritsantos00@gmail.com
+
 **GitHub**: https://github.com/yowrexd
 
 ---
